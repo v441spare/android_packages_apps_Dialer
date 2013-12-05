@@ -300,10 +300,8 @@
         <service android:name="com.android.incallui.CallHandlerService"
                  android:process="com.android.incallui"
                  android:permission="android.permission.BIND_CALL_SERVICE">
-=======
         <service android:name="com.android.incallui.CallHandlerService"
                  android:process="com.android.incallui">
->>>>>>> c286ae2... Combine InCallUI & Dialer (part 3)
             <intent-filter>
                 <action android:name="com.android.services.telephony.common.ICallHandlerService" />
             </intent-filter>
