@@ -278,7 +278,6 @@
         <activity android:name="com.android.incallui.InCallActivity"
                   android:theme="@style/Theme.InCallScreen"
                   android:label="@string/phoneAppLabel"
-                  android:label="@string/inCallLabel"
                   android:excludeFromRecents="true"
                   android:launchMode="singleInstance"
                   android:screenOrientation="nosensor"
