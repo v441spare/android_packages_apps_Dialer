@@ -17,7 +17,7 @@
 <resources>
 
     <!-- Secondary text color in the Phone app -->
-    <color name="dialtacts_primary_text_color">#111111</color>
+    <color name="dialtacts_primary_text_color">#FF0000</color>
     <color name="dialtacts_secondary_text_color">#DF1A1A</color>
     <color name="dialpad_text_color">#ffffff</color>
 
@@ -49,7 +49,7 @@
     <!-- Primary color of dialpad text, including the call button -->
     <color name="dialpad_primary_text_color">#9A0101</color>
     <!-- Secondary color of dialpad text (used for the letters corresponding to each digit -->
-    <color name="dialpad_secondary_text_color">#aaaaaa</color>
+    <color name="dialpad_secondary_text_color">#CDBDBD</color>
 
     <!-- Background color of action bars -->
     <color name="actionbar_background_color">#000000</color>
@@ -69,7 +69,7 @@
     <color name="undo_dialogue_text_color">#E40B0B</color>
 
     <!-- Text color for no favorites message -->
-    <color name="nofavorite_text_color">#777777</color>
+    <color name="nofavorite_text_color">#94A8B0</color>
 
     <!-- Colors for incoming and outgoing calls in the call statistics -->
     <color name="call_stats_incoming">#33b5e5</color>
