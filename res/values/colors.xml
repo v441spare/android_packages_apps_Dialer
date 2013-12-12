@@ -18,7 +18,7 @@
 
     <!-- Secondary text color in the Phone app -->
     <color name="dialtacts_primary_text_color">#111111</color>
-    <color name="dialtacts_secondary_text_color">#DF1A1A</color>
+    <color name="dialtacts_secondary_text_color">#888888</color>
     <color name="dialpad_text_color">#ffffff</color>
 
     <!-- Color of the text describing an unconsumed missed call. -->
@@ -66,7 +66,7 @@
     <color name="contact_tile_name_color">#f0f0f0</color>
 
     <!-- Undo dialogue color -->
-    <color name="undo_dialogue_text_color">#E40B0B</color>
+    <color name="undo_dialogue_text_color">#4d4d4d</color>
 
     <!-- Text color for no favorites message -->
     <color name="nofavorite_text_color">#777777</color>
